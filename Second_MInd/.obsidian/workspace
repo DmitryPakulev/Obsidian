@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "f1dcb096e85bac5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a48bafe5a8f37f7b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Без названия 1fesa.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aa4b769ffdf46cf9",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea5426df1cb0cf13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7661898a1476c907",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "79dd3d867c773fe8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3a79561bdf4fa983",
+    "type": "split",
+    "children": [
+      {
+        "id": "abc7bcaed6050b9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa3e11087e4a5338",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Без названия 1fesa.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7e4b8a12becdcd4d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Без названия 1fesa.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cc71c03dbb0b4fc2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "88d51a8221a29b1b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Без названия 1fesa.md"
+              }
+            }
+          },
+          {
+            "id": "cadd6d91c77e3b2e",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "1e9c9428679a67df",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          },
+          {
+            "id": "3f0e00cd5db9d45a",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "0815000b4797a107",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a48bafe5a8f37f7b",
+  "lastOpenFiles": [
+    "Без названия 1fesa.md",
+    "тест.md",
+    "настройка git + github.md",
+    "attacths/Pasted image 20220321204129.png",
+    "Фишки Obsidian.md",
+    "Pasted image 20220321204012.png",
+    "Без названия.md",
+    "Inbox/Study/languages/Programming/python/types/Словар - dict().md",
+    "Inbox/Books/Nineteen Eighty-Four (1984).md",
+    "Inbox/Study/Term/Филосовский/Война - это мир 2021-09-06.md"
+  ]
+}
