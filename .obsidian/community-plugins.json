@@ -14,7 +14,6 @@
   "mrj-jump-to-link",
   "juggl",
   "obsidian-highlightpublicnotes-plugin",
-  "flashcards-obsidian",
   "obsidian-latex",
   "obsidian-emoji-toolbar",
   "cm-editor-syntax-highlight-obsidian",
@@ -26,5 +25,6 @@
   "table-editor-obsidian",
   "obsidian-admonition",
   "nldates-obsidian",
-  "templater-obsidian"
+  "templater-obsidian",
+  "flashcards-obsidian"
 ]

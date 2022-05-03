@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "be9698e8aeadceff",
+        "id": "95f970f2d8bfe69d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Краткое содержание книги по Python/Модули.md",
+            "file": "Алгоритмы. Лекции Python Хирьянов/Тайм-коды.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Краткое содержание книги по Python/Модули.md",
+                "file": "Алгоритмы. Лекции Python Хирьянов/Тайм-коды.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Краткое содержание книги по Python/Модули.md",
+                "file": "Алгоритмы. Лекции Python Хирьянов/Тайм-коды.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Краткое содержание книги по Python/Модули.md"
+                "file": "Алгоритмы. Лекции Python Хирьянов/Тайм-коды.md"
               }
             }
           },
@@ -144,6 +144,14 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "5bf5199d79ba4cd6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ]
       }
@@ -152,17 +160,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "be9698e8aeadceff",
+  "active": "95f970f2d8bfe69d",
   "lastOpenFiles": [
+    "Алгоритмы. Лекции Python Хирьянов/Тайм-коды.md",
+    "Алгоритмы. Лекции Python Хирьянов/Рекурсия.md",
+    "Алгоритмы. Лекции Python Хирьянов/Массив, Квадратичные сортировки..md",
+    "Алгоритмы. Лекции Python Хирьянов/Термины.md",
+    "Алгоритмы. Лекции Python Хирьянов/лекция№2.md",
     "Краткое содержание книги по Python/Модули.md",
-    "Без названия.md",
-    "attacths/Pasted image 20220321204218.png",
-    "Фишки Obsidian.md",
-    "тест.md",
-    "настройка git + github.md",
-    "Без названия 1fesa.md",
-    "attacths/Pasted image 20220321201703.png",
-    "Без названия 1.md",
-    "Без названия 2.md"
+    "Практическое руководство для начинающих python./Автоматизация рутинных задач с помощью python.md",
+    "English/Таблица времён.md",
+    "English/Местоимения.md",
+    "English/Словосочетания и устаявшикся выражения.md"
   ]
 }
