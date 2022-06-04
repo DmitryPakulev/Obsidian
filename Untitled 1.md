@@ -1,0 +1,1 @@
+<center><iframe frameborder="0" src="ПУТЬ К ФАЙЛУ ЧЕРЕЗ БРАУЗЕРУ" width="100%" height="2000"></iframe></center>

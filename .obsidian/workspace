@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "95f970f2d8bfe69d",
+        "id": "c68c327e7bab1ab9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Алгоритмы. Лекции Python Хирьянов/Тайм-коды.md",
+            "file": "Конспекты JS/Браузер.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Алгоритмы. Лекции Python Хирьянов/Тайм-коды.md",
+                "file": "Конспекты JS/Браузер.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Алгоритмы. Лекции Python Хирьянов/Тайм-коды.md",
+                "file": "Конспекты JS/Браузер.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Алгоритмы. Лекции Python Хирьянов/Тайм-коды.md"
+                "file": "Конспекты JS/Браузер.md"
               }
             }
           },
@@ -160,17 +160,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "95f970f2d8bfe69d",
+  "active": "c68c327e7bab1ab9",
   "lastOpenFiles": [
-    "Алгоритмы. Лекции Python Хирьянов/Тайм-коды.md",
-    "Алгоритмы. Лекции Python Хирьянов/Рекурсия.md",
-    "Алгоритмы. Лекции Python Хирьянов/Массив, Квадратичные сортировки..md",
-    "Алгоритмы. Лекции Python Хирьянов/Термины.md",
+    "Конспекты JS/Браузер.md",
     "Алгоритмы. Лекции Python Хирьянов/лекция№2.md",
-    "Краткое содержание книги по Python/Модули.md",
-    "Практическое руководство для начинающих python./Автоматизация рутинных задач с помощью python.md",
-    "English/Таблица времён.md",
-    "English/Местоимения.md",
-    "English/Словосочетания и устаявшикся выражения.md"
+    "Алгоритмы. Лекции Python Хирьянов/лекция№1.md",
+    "attacths/Pasted image 20220321204218.png",
+    "Books/Django_Razrabotka_veb-prilozheniy_na_Python_Uesli_Chan_Dzheff_Forsye_Pol_Bissex_compressed.pdf",
+    "A byte of python/Модули.md",
+    "A byte of python/Операторы.md",
+    "A byte of python/Функции.md",
+    "A byte of python/Структуры данных.md",
+    "A byte of python/Основы.md"
   ]
 }
